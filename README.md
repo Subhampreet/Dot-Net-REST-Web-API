@@ -1,1 +1,1 @@
-﻿# .NET REST API
+# .NET REST API
